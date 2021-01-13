@@ -1,6 +1,6 @@
 #HOST-SUFFIX,steamcommunity.com,Steam
 #HOST-SUFFIX,steampowered.com,Steam
-KEY-WORD,Steam,Steam
-HOST-SUFFIX,steamcommunity-a.akamaihd.net,Steam
-HOST-SUFFIX,store.steampowered.com,Steam
+#KEY-WORD,Steam,Steam
+#HOST-SUFFIX,steamcommunity-a.akamaihd.net,Steam
+#HOST-SUFFIX,store.steampowered.com,Steam
 HOST-SUFFIX,api.steampowered.com,Steam
