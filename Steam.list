@@ -1,3 +1,6 @@
 # Steam 
 USER-AGENT,Steam*,Steam
 USER-KEYWORD,Steam,steam
+HOST-SUFFIX,steamcommunity.com,Steam
+HOST-SUFFIX,STEAMCPWERED,Steam
+HOST-SUFFIX,api.steampowered.com,Steam
