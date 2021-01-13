@@ -1,5 +1,3 @@
-HOST-SUFFIX,fanatical.com,Steam
-HOST-SUFFIX,humblebundle.com,Steam
-HOST-SUFFIX,steamcommunity.com,Steam
-HOST-SUFFIX,steampowered.com,Steam
-HOST-SUFFIX,steamstatic.com,Steam
+#HOST-SUFFIX,steamcommunity.com,Steam
+#HOST-SUFFIX,steampowered.com,Steam
+KEY-WORD,Steam,Steam
