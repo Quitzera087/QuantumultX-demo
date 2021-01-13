@@ -1,5 +1,5 @@
-HOST-SUFFIX,fanatical.com,Outside
-HOST-SUFFIX,humblebundle.com,Outside
-HOST-SUFFIX,steamcommunity.com,Outside
-HOST-SUFFIX,steampowered.com,Outside
-HOST-SUFFIX,steamstatic.com,Outside
+HOST-SUFFIX,fanatical.com,Steam
+HOST-SUFFIX,humblebundle.com,Steam
+HOST-SUFFIX,steamcommunity.com,Steam
+HOST-SUFFIX,steampowered.com,Steam
+HOST-SUFFIX,steamstatic.com,Steam
